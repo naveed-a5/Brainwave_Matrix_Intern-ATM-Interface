@@ -4,7 +4,7 @@ import time
 # Sample user data
 users = {
     "1234": {
-        "name": "Naveena",
+        "name": "Naveed",
         "balance": 1000.0,
         "transactions": []
     },
